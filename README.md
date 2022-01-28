@@ -15,4 +15,4 @@ https://material.io/components/banners
 These are not meant to be drop in widgets that you can use in your applications, rather they are meant to demonstrate design functionality that your users may be used to from other applications that they already use and would benefit from the same user experience.
 
 Read more here:
-coming soon...
+https://www.soliantconsulting.com/blog/material-design-filemaker-snackbars-banners/
